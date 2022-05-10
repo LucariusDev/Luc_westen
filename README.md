@@ -1,6 +1,6 @@
 # Luc_westen
 Easy West Script for FiveM ESX / Einfaches Westen Script für FiveM ESX
-
+progressBar is not included.
 
 Installation:
 
